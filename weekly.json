@@ -1,1 +1,1 @@
-{"math":[{"from":"2026-11-12T00:00:00+09:00","id":"sample1","subject":"대수","unit":"지수함수","img":"weekly/sample_prob.png","type":"mc","answer":"3","hint":"[견본 힌트] 2의 3제곱과 2의 2제곱을 각각 먼저 계산해 보세요.","sol":["weekly/sample_sol.png"],"prob_pdf":"weekly/sample_prob.pdf","sol_pdf":"weekly/sample_sol.pdf","src":"견본 — 화면 확인용"}],"try":[]}
+{"math":[],"try":[]}
