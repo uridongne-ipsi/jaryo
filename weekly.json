@@ -1,1 +1,24 @@
-{"math":[],"try":[]}
+{
+ "math": [
+  {
+   "from": "2026-11-12T00:00:00+09:00",
+   "id": "m001",
+   "no": 1,
+   "subject": "대수",
+   "unit": "로그",
+   "img": "weekly/m001_prob.png",
+   "type": "mc",
+   "answer": "2",
+   "hint": "a, b를 따로 구하지 않고 주어진 두 조건만으로 묻는 값에 닿을 수는 없을까?",
+   "sol": [
+    "weekly/m001_sol1.png",
+    "weekly/m001_sol2.png",
+    "weekly/m001_sol3.png"
+   ],
+   "prob_pdf": "weekly/m001_prob.pdf",
+   "sol_pdf": "weekly/m001_sol.pdf",
+   "src": "2026학년도 대학수학능력시험 6번"
+  }
+ ],
+ "try": []
+}
