@@ -18,6 +18,25 @@
    "prob_pdf": "weekly/m001_prob.pdf",
    "sol_pdf": "weekly/m001_sol.pdf",
    "src": "2026학년도 대학수학능력시험 6번"
+  },
+  {
+   "from": "2026-11-23T00:00:00+09:00",
+   "id": "m002",
+   "no": 2,
+   "subject": "미적분 I",
+   "unit": "함수의 극한",
+   "img": "weekly/m002_prob.png",
+   "type": "mc",
+   "answer": "4",
+   "hint": "t가 한없이 커질 때, 원점에서 바라본 점 P의 방향은 어디로 향하는가?",
+   "sol": [
+    "weekly/m002_sol1.png",
+    "weekly/m002_sol2.png",
+    "weekly/m002_sol3.png"
+   ],
+   "prob_pdf": "weekly/m002_prob.pdf",
+   "sol_pdf": "weekly/m002_sol.pdf",
+   "src": "2020년 7월 고3 전국연합학력평가 수학 나형 13번"
   }
  ],
  "try": []
