@@ -37,6 +37,25 @@
    "prob_pdf": "weekly/m002_prob.pdf",
    "sol_pdf": "weekly/m002_sol.pdf",
    "src": "2020년 7월 고3 전국연합학력평가 수학 나형 13번"
+  },
+  {
+   "from": "2026-11-30T00:00:00+09:00",
+   "id": "m003",
+   "no": 3,
+   "subject": "확률과 통계",
+   "unit": "확률",
+   "img": "weekly/m003_prob.png",
+   "type": "mc",
+   "answer": "5",
+   "hint": "네 수의 곱이 5의 배수인지 아닌지를 정하는 공은 사실 몇 개일까?",
+   "sol": [
+    "weekly/m003_sol1.png",
+    "weekly/m003_sol2.png",
+    "weekly/m003_sol3.png"
+   ],
+   "prob_pdf": "weekly/m003_prob.pdf",
+   "sol_pdf": "weekly/m003_sol.pdf",
+   "src": "2027학년도 대학수학능력시험 6월 모의평가 확률과 통계 26번"
   }
  ],
  "try": []
